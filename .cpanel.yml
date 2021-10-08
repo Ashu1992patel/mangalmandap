@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mangaztt/public_html/mangalmandap/mangalmandap/
+    - export DEPLOYPATH=/home/mangaztt/mangalmandap/
     - /bin/cp -R * $DEPLOYPATH
